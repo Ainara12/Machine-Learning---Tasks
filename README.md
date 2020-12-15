@@ -38,11 +38,6 @@ stating the Chi-squared value based on it is approximately 24.6. Use scipy.stats
 to verify this value and calculate the associated p value. You should include a short
 note with references justifying your analysis in a markdown cell.
 
-A B C D Total
-White collar 90 60 104 95 349
-Blue collar 30 50 51 20 151
-No collar 30 40 45 35 150
-Total 150 150 200 150 650
 
 ### Task 3
 
