@@ -13,7 +13,7 @@ The four tasks are included inside the folder titled 'Machine Learning-Tasks', t
 -Images folder, including any images that I have used in my main Task notebook or the drafts.
 -Gitignore and README files
 
-##Main Jupyter Notebook including the tasks to be evaluated: 
+## Main Jupyter Notebook including the tasks to be evaluated: 
 
 The Jupyter notebook titled: MACHINE LEARNING MODULE TASKS 2020, includes the tasks.
 In order to navigate through it just follow the instructions in markdown cells within the document. 
