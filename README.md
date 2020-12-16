@@ -15,7 +15,7 @@ Please find below the full details of what needs to be done for every task.
 The four tasks are included inside the folder titled **'Machine Learning-Tasks'**, this folder includes:
 
 * The **main Jupyter notebook** which includes the 4 tasks along with references and explanations for my code and my thought process.
--* **Images & socuments folder**, including any images that I have used in my main Task notebook or the drafts.
+* **Images & documents folder**, including any images that I have used in my main Task notebook or the drafts.
 
 ## Main Jupyter Notebook including the tasks to be evaluated: 
 
