@@ -6,12 +6,16 @@ I have created this repository for the Machine Learning module tasks.
 Please find below the full details of what needs to be done for every task. 
 
 ## Instructions: 
-The four tasks are included inside the folder titled 'Machine Learning-Tasks', this folder includes:
+### Contents of this repository
+* **Drafts folder**,that I keep coming back and find possible new solutions to tasks or practice examples there.
+* **Machine Learning-Tasks folder**
+* .gitignore
+* README file
 
--The main Jupyter notebook which includes the 4 tasks along with references and explanations for my code and my thought process.
--Draft Jupyter notebooks that I keep coming back and find possible new solutions to tasks or practice examples there. 
--Images folder, including any images that I have used in my main Task notebook or the drafts.
--Gitignore and README files
+The four tasks are included inside the folder titled **'Machine Learning-Tasks'**, this folder includes:
+
+* The **main Jupyter notebook** which includes the 4 tasks along with references and explanations for my code and my thought process.
+-* **Images & socuments folder**, including any images that I have used in my main Task notebook or the drafts.
 
 ## Main Jupyter Notebook including the tasks to be evaluated: 
 
